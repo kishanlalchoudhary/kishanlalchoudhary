@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishanlalchoudhary" alt="kishanlalchoudhary" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, Flask, TailwindCSS**
+- 🌱 I’m currently learning **Javascript, Flask, TailwindCSS, ReactJs**
 
 - 📫 How to reach me **kisanchoudhary000@gmail.com**
 
