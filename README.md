@@ -25,7 +25,7 @@
 
 - 😄 Pronouns: He/Him/We
 
-- ⚡ Coding fact: "It’s all 0’s and 1’s".
+- ⚡ Fun fact: I love connecting with different people.
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
