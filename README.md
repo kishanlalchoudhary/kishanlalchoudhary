@@ -35,15 +35,15 @@ var skills = {
 <p align=center>
 <div align="center">
  <a>
- <img width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=kishanlalchoudhary&show_icons=true&locale=en&layout=compact&theme=react&column=8&border_color=61dafb" alt="kishanlalchoudhary" />
+ <img width=396 src="https://github-readme-stats.vercel.app/api?username=kishanlalchoudhary&show_icons=true&theme=react&border_color=61dafb" alt="kishanlalchoudhary" /> 
  </a>
   <br><br>
  <a>
  <img width=396img src="https://github-readme-streak-stats.herokuapp.com/?user=kishanlalchoudhary&&theme=react&border=61dafb" alt="kishanlalchoudhary" />
  </a>
-  <br><br>
+  <br><br>  
  <a>
- <img width=396 src="https://github-readme-stats.vercel.app/api?username=kishanlalchoudhary&show_icons=true&theme=react&border_color=61dafb" alt="kishanlalchoudhary" /> 
+ <img width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=kishanlalchoudhary&show_icons=true&locale=en&layout=compact&theme=react&column=8&border_color=61dafb" alt="kishanlalchoudhary" />
  </a>
 </div>
 </p>
