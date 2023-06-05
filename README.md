@@ -25,7 +25,7 @@ var skills = {
 
 ##
 
-<h2 align="center">Github stats</h2>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
@@ -38,16 +38,18 @@ var skills = {
 <p align=center>
 <div align="center">
  <a>
- <img width=396 src="https://github-readme-stats.vercel.app/api?username=kishanlalchoudhary&show_icons=true&theme=react&border_color=61dafb" alt="kishanlalchoudhary" /> 
+ <img width=470 src="https://github-readme-stats.vercel.app/api?username=kishanlalchoudhary&show_icons=true&theme=react&border_color=61dafb" alt="kishanlalchoudhary" /> 
  </a>
-  <br><br>
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
  <a>
- <img width=396img src="https://github-readme-streak-stats.herokuapp.com/?user=kishanlalchoudhary&&theme=react&border=61dafb" alt="kishanlalchoudhary" />
+ <img width=490 src="https://github-readme-streak-stats.herokuapp.com/?user=kishanlalchoudhary&&theme=react&border=61dafb" alt="kishanlalchoudhary" />
  </a>
-  <br><br>  
- <a>
- <img width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=kishanlalchoudhary&show_icons=true&locale=en&layout=compact&theme=react&column=8&border_color=61dafb" alt="kishanlalchoudhary" />
- </a>
+</div> 
+&nbsp; &nbsp;
+<div align="center" >
+<a>
+ <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=kishanlalchoudhary&show_icons=true&locale=en&layout=compact&theme=react&column=8&border_color=61dafb" alt="kishanlalchoudhary" />
+</a>
 </div>
 </p>
 
