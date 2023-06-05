@@ -9,6 +9,26 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
+- 🔭 I’m currently working on something cool.
+
+- 🌱 I’m currently learning **MERN Stack**.
+
+- 👯 I’m looking forward to collaborate on Web projects.
+
+<!-- - 🤔 I’m looking for help with ... -->
+
+<!-- - 📫 How to reach me  -->
+
+- 👨‍💻 You can access all of my projects here on **[GitHub](https://github.com/kishanlalchoudhary)**
+
+- 💬 Ask me anything about Web Development, I am happy to help.
+
+- 😄 Pronouns: He/Him/We
+
+- ⚡ Coding fact: "It’s all 0’s and 1’s".
+
+- 💪🏼 Fav Quote: "Great Developers never stop learning".
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ```sh
