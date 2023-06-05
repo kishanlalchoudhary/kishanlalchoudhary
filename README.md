@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kishanlalchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="kishanlalchoudhary" /> </p>
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 ```sh
 var skills = {
     "Web Development" : {
@@ -12,7 +14,8 @@ var skills = {
         "Databases" : [ "MongoDB" ] ,
         "Version Control" : [ "GitHub" ] ,
         "DeveOps" : [ "Git" ] ,
-        "Hosting" : [ "Netlify", "Vercel", "Firebase", "GitHub" ]
+        "Hosting" : [ "Netlify", "Vercel", "Firebase", "GitHub" ] ,
+        "IDE" : [ "Visual Studio Code" ]
     }
     "Design" : {
         "Tools" : [ "Canva", "Photoshop", "After Effects", "Figma" ]
