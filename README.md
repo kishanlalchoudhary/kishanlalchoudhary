@@ -3,6 +3,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kishanlalchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="kishanlalchoudhary" /> </p>
 
+<div align="center">
+    <img alt="Coder GIF" height=250 width=350 src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" />
+</div>
+
+## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ```sh
@@ -29,28 +35,28 @@ var skills = {
 
 <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=kishanlalchoudhary&theme=onedark&column=8" alt="kishanlalchoudhary" />
+        <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=kishanlalchoudhary&theme=onedark&column=8" alt="kishanlalchoudhary" />
     </a>
 </div>
 
 ##
 
 <p align=center>
-<div align="center">
- <a>
- <img width=396 src="https://github-readme-stats.vercel.app/api?username=kishanlalchoudhary&show_icons=true&theme=react&border_color=61dafb" alt="kishanlalchoudhary" /> 
- </a>
+    <div align="center">
+        <a>
+            <img width=396 src="https://github-readme-stats.vercel.app/api?username=kishanlalchoudhary&show_icons=true&theme=react&border_color=61dafb" alt="kishanlalchoudhary" /> 
+        </a>
     &nbsp; &nbsp; &nbsp;
- <a>
- <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=kishanlalchoudhary&&theme=react&border=61dafb" alt="kishanlalchoudhary" />
- </a>
-</div> 
-&nbsp; &nbsp;
-<div align="center" >
-<a>
- <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=kishanlalchoudhary&show_icons=true&locale=en&layout=compact&theme=react&column=8&border_color=61dafb" alt="kishanlalchoudhary" />
-</a>
-</div>
+        <a>
+            <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=kishanlalchoudhary&&theme=react&border=61dafb" alt="kishanlalchoudhary" />
+        </a>
+    </div> 
+    &nbsp; &nbsp;
+    <div align="center" >
+        <a>
+            <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=kishanlalchoudhary&show_icons=true&locale=en&layout=compact&theme=react&column=8&border_color=61dafb" alt="kishanlalchoudhary" />
+        </a>
+    </div>
 </p>
 
 ## 
