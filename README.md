@@ -9,7 +9,7 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working on something cool.
+<!-- - 🔭 I’m currently working on something cool. -->
 
 - 🌱 I’m currently learning **MERN Stack**.
 
