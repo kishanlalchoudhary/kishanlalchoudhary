@@ -40,7 +40,7 @@ var skills = {
  <a>
  <img width=396 src="https://github-readme-stats.vercel.app/api?username=kishanlalchoudhary&show_icons=true&theme=react&border_color=61dafb" alt="kishanlalchoudhary" /> 
  </a>
-    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+    &nbsp; &nbsp;
  <a>
  <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=kishanlalchoudhary&&theme=react&border=61dafb" alt="kishanlalchoudhary" />
  </a>
