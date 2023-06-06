@@ -2,7 +2,7 @@
 <h3 align="center">A Web development Enthusiast from India and Sophmore at Pune Institute of Computer Technology</h3>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=%3E+Welcome%20to%20my%20GitHub%20profile...;%3E+Computer+Science+Student;%3E+Full+Stack+Developer;%3E+Problem+Solver;%3E+Open-Source+Enthusiast" />
     
 </div>
 
