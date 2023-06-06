@@ -67,7 +67,7 @@
     </a>
 </div>
 
-&nbsp;
+&nbsp; &nbsp;
 
 <p align=center>
     <div align="center">
