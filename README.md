@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kishanlal Choudhary</h1>
+<h1 align="center">Hi Geeks, I'm Kishanlal Choudhary</h1>
 <h3 align="center">A Web development Enthusiast from India and Sophmore at Pune Institute of Computer Technology</h3>
+
+##
+
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!" />
+</div>
+
+##
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=kishanlalchoudhary&label=Profile%20views&color=0e75b6&style=flat" alt="kishanlalchoudhary" />
