@@ -62,7 +62,7 @@
 <p align=center>
     <div align="center">
         <a>
-            <img width=396 src="https://github-readme-stats.vercel.app/api?username=kishanlalchoudhary&show_icons=true&theme=react&border_color=61dafb" alt="kishanlalchoudhary" /> 
+            <img width=396 src="https://github-readme-stats.vercel.app/api?username=kishanlalchoudhary&show_icons=true&theme=vue-dark&border_color=61dafb" alt="kishanlalchoudhary" /> 
         </a>
     &nbsp; &nbsp; &nbsp;
         <a>
