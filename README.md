@@ -23,7 +23,7 @@
 
 - 💬 Ask me anything about Web Development, I am happy to help.
 
-- 😄 Pronouns: He/Him/We
+- 😄 Pronouns: He/Him
 
 - ⚡ Fun fact: I love connecting with different people.
 
