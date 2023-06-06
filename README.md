@@ -66,13 +66,13 @@
         </a>
     &nbsp; &nbsp; &nbsp;
         <a>
-            <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=kishanlalchoudhary&&theme=react&border=61dafb" alt="kishanlalchoudhary" />
+            <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=kishanlalchoudhary&&theme=vue-dark&border=61dafb" alt="kishanlalchoudhary" />
         </a>
     </div> 
     &nbsp; &nbsp;
     <div align="center" >
         <a>
-            <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=kishanlalchoudhary&show_icons=true&locale=en&layout=compact&theme=react&column=8&border_color=61dafb" alt="kishanlalchoudhary" />
+            <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=kishanlalchoudhary&show_icons=true&locale=en&layout=compact&theme=vue-dark&column=8&border_color=61dafb" alt="kishanlalchoudhary" />
         </a>
     </div>
 </p>
