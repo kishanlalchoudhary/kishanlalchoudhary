@@ -87,6 +87,8 @@
     </div>
 </p>
 
+<br>
+
 [![An image of @kishanlalchoudhary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kishanlalchoudhary)](https://holopin.io/@kishanlalchoudhary)
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
