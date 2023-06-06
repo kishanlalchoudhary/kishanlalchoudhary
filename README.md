@@ -43,7 +43,7 @@
         "DeveOps" : [ "Git" ] ,
         "Hosting" : [ "Netlify", "Vercel", "Firebase", "GitHub" ] ,
         "IDE" : [ "Visual Studio Code" ]
-    }
+    } ,
     "Design" : {
         "Tools" : [ "Canva", "Photoshop", "After Effects", "Figma" ]
     }
