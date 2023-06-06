@@ -1,8 +1,6 @@
 <h1 align="center">Hi Geeks, I'm Kishanlal Choudhary</h1>
 <h3 align="center">A Web development Enthusiast from India and Sophmore at Pune Institute of Computer Technology</h3>
 
-##
-
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=0D1117&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!" />
 </div>
@@ -91,10 +89,9 @@
 
 [![An image of @kishanlalchoudhary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kishanlalchoudhary)](https://holopin.io/@kishanlalchoudhary)
 
-##
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
 
-<h3 align="center">Connect with me</h3>
-<p align="center">
+<p>
     <a href="https://www.linkedin.com/in/kishanlal-choudhary-a94154217/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
