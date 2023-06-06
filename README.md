@@ -70,11 +70,11 @@
 <p align=center>
     <div align="center">
         <a>
-            <img width=396 src="https://github-readme-stats.vercel.app/api?username=kishanlalchoudhary&show_icons=true&theme=vue-dark&border_color=61dafb" alt="kishanlalchoudhary" /> 
+            <img width=390 src="https://github-readme-stats.vercel.app/api?username=kishanlalchoudhary&show_icons=true&theme=vue-dark&border_color=61dafb" alt="kishanlalchoudhary" /> 
         </a>
     &nbsp; &nbsp; &nbsp;
         <a>
-            <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=kishanlalchoudhary&&theme=vue-dark&border=61dafb" alt="kishanlalchoudhary" />
+            <img width=414 src="https://github-readme-streak-stats.herokuapp.com/?user=kishanlalchoudhary&&theme=vue-dark&border=61dafb" alt="kishanlalchoudhary" />
         </a>
     </div> 
     &nbsp; &nbsp;
@@ -84,8 +84,6 @@
         </a>
     </div>
 </p>
-
-## 
 
 [![An image of @kishanlalchoudhary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kishanlalchoudhary)](https://holopin.io/@kishanlalchoudhary)
 
