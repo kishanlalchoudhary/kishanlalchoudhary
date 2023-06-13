@@ -50,6 +50,7 @@
         "Version Control" : [ "GitHub" ] ,
         "DeveOps" : [ "Git" ] ,
         "Hosting" : [ "Netlify", "Vercel", "Firebase", "GitHub" ] ,
+        "Tools" : [ "Vite" ] ,
         "IDE" : [ "Visual Studio Code" ]
     } ,
     
