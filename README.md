@@ -49,7 +49,7 @@
         "Databases" : [ "MongoDB" ] ,
         "Version Control" : [ "GitHub" ] ,
         "DeveOps" : [ "Git" ] ,
-        "Hosting" : [ "Netlify", "Vercel", "Firebase", "GitHub" ] ,
+        "Hosting" : [ "Netlify", "Vercel", "Firebase", "GitHub Pages" ] ,
         "Tools" : [ "Vite" ] ,
         "IDE" : [ "Visual Studio Code" ]
     } ,
