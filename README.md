@@ -43,14 +43,11 @@
 
 {
     "Web Development" : {
-        "Languages" : [ "HTML", "CSS", "Javascript" ]
+        "Languages" : [ "HTML", "CSS", "Javascript", CPP, Python, Java ]
         "Frontend Frameworks" : [ "Tailwind CSS", "React", "Semantic UI", "Bootstrap" ] ,
         "Backend Frameworks" : [ "Node.js", "Express.js", "Flask", "Firebase" ] ,
-        "Databases" : [ "MongoDB" ] ,
-        "Version Control" : [ "GitHub" ] ,
-        "DeveOps" : [ "Git" ] ,
-        "Hosting" : [ "Netlify", "Vercel", "Firebase", "GitHub Pages" ] ,
-        "Tools" : [ "Vite" ] ,
+        "Databases" : [ "MongoDB", "PostgreSQL" ] ,
+        "Tools" : [ "Git", "GitHub", "Postman", "Vite" ]
         "IDE" : [ "Visual Studio Code" ]
     } ,
     
