@@ -43,7 +43,7 @@
 
 {
     "Web Development" : {
-        "Languages" : [ "HTML", "CSS", "Javascript", CPP, Python, Java ]
+        "Languages" : [ "HTML", "CSS", "Javascript", "CPP", "Python", "Java" ]
         "Frontend Frameworks" : [ "Tailwind CSS", "React", "Semantic UI", "Bootstrap" ] ,
         "Backend Frameworks" : [ "Node.js", "Express.js", "Flask", "Firebase" ] ,
         "Databases" : [ "MongoDB", "PostgreSQL" ] ,
