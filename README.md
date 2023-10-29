@@ -27,7 +27,7 @@
 
 <!-- - 📫 How to reach me  -->
 
-- 👨‍💻 You can access all of my projects here on **[GitHub](https://github.com/kishanlalchoudhary)**
+- 👨‍💻 You can access all of my projects here on **[GitHub](https://github.com/kishanlalchoudhary?tab=repositories)**
 
 - 💬 Ask me anything about Web Development, I am happy to help.
 
