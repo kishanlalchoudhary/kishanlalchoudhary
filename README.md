@@ -19,7 +19,7 @@
 
 <!-- - 🔭 I’m currently working on something cool. -->
 
-- 🌱 I’m currently learning **MERN Stack**.
+- 🌱 I’m currently learning Next.js.
 
 - 👯 I’m looking forward to collaborate on Web projects.
 
@@ -43,10 +43,10 @@
 
 {
     "Web Development" : {
-        "Languages" : [ "HTML", "CSS", "Javascript", "CPP", "Python", "Java" ]
-        "Frontend Frameworks" : [ "Tailwind CSS", "React", "Semantic UI", "Bootstrap" ] ,
+        "Languages" : [ "HTML", "CSS", "Javascript", "SQL", "CPP", "Python" ]
+        "Frontend Frameworks" : [ "Tailwind CSS", "React.js", "Next.js", "Semantic UI", "Bootstrap" ] ,
         "Backend Frameworks" : [ "Node.js", "Express.js", "Flask", "Firebase" ] ,
-        "Databases" : [ "MongoDB", "PostgreSQL" ] ,
+        "Databases" : [ "MongoDB", "PostgreSQL", "MySQL" ] ,
         "Tools" : [ "Git", "GitHub", "Postman", "Vite" ]
         "IDE" : [ "Visual Studio Code" ]
     } ,
