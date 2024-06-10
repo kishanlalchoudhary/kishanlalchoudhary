@@ -47,7 +47,7 @@
         "Frontend Frameworks" : [ "Tailwind CSS", "React.js", "Next.js", "Bootstrap" ] ,
         "Backend Frameworks" : [ "Node.js", "Express.js", "Flask", "Firebase" ] ,
         "Databases" : [ "MongoDB", "PostgreSQL", "MySQL" ] ,
-        "Tools" : [ "Git", "GitHub", "Docker", "Postman", "Vite" ]
+        "Tools" : [ "Git", "GitHub", "Docker", "Postman", "Vite", "Bit Bucket" ]
         "IDE" : [ "Visual Studio Code" ]
     } ,
     
