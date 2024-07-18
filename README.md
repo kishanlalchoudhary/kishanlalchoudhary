@@ -29,11 +29,11 @@
 
 - 👨‍💻 You can access all of my projects here.
 
-- 💬 Ask me anything about Web Development, I am happy to help.
+- 💬 Ask me anything about Web Development; I'm happy to help.
 
 - 😄 Pronouns: He/Him
 
-- ⚡ Fun fact: I love connecting with different people.
+- ⚡ Fun fact: I'm a natural conversationalist and love to connect with peoples. 
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
