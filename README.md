@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Geeks, I'm Kishanlal Choudhary</h1>
-<h3 align="center">A Web development Enthusiast from India and Junior at Pune Institute of Computer Technology</h3>
+<h3 align="center">A Web Development Enthusiast from India and a Final Year Student at Pune Institute of Computer Technology.</h3>
 
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=ROBOT&color=%236FDA44&size=25&center=true&vCenter=true&width=600&height=50&lines=%3E+Welcome%20to%20my%20GitHub%20profile...;%3E+Computer+Engineering+Student;%3E+Full+Stack+Developer;%3E+Problem+Solver;%3E+Open-Source+Enthusiast" />  
