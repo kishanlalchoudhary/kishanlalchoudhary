@@ -57,34 +57,6 @@
 }
 ```
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
-
-<div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-        <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=kishanlalchoudhary&theme=onedark&column=8" alt="kishanlalchoudhary" />
-    </a>
-</div>
-
-<br>
-
-<p align=center>
-    <div align="center">
-        <a>
-            <img width=396 src="https://github-readme-stats.vercel.app/api?username=kishanlalchoudhary&show_icons=true&theme=vue-dark&border_color=61dafb" alt="kishanlalchoudhary" /> 
-        </a>
-    &nbsp; &nbsp; &nbsp;
-        <a>
-            <img width=420 src="https://github-readme-streak-stats.herokuapp.com/?user=kishanlalchoudhary&&theme=vue-dark&border=61dafb" alt="kishanlalchoudhary" />
-        </a>
-    </div> 
-    &nbsp; &nbsp;
-    <div align="center" >
-        <a>
-            <img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=kishanlalchoudhary&show_icons=true&locale=en&layout=compact&theme=vue-dark&column=8&border_color=61dafb" alt="kishanlalchoudhary" />
-        </a>
-    </div>
-</p>
-
 <br>
 
 [![An image of @kishanlalchoudhary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kishanlalchoudhary)](https://holopin.io/@kishanlalchoudhary)
