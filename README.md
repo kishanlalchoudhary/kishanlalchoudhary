@@ -27,7 +27,7 @@
 
 <!-- - 📫 How to reach me  -->
 
-- 👨‍💻 You can access all of my projects here on **[GitHub](https://github.com/kishanlalchoudhary?tab=repositories)**
+- 👨‍💻 You can access all of my projects here.
 
 - 💬 Ask me anything about Web Development, I am happy to help.
 
@@ -43,12 +43,12 @@
 
 {
     "Web Development" : {
-        "Languages" : [ "HTML", "CSS", "Javascript", "SQL", "CPP", "Java", "Python" ]
-        "Frontend Frameworks" : [ "Tailwind CSS", "React.js", "Next.js", "Bootstrap" ] ,
+        "Languages" : [ "CPP", "Java", "SQL", "HTML", "CSS", "Javascript", "Python" ] ,
+        "Frontend Frameworks" : [ "Next.js", "React", "Tailwind CSS", "Bootstrap" ] ,
         "Backend Frameworks" : [ "Node.js", "Express.js", "Flask", "Firebase" ] ,
-        "Databases" : [ "MongoDB", "PostgreSQL", "MySQL" ] ,
-        "Tools" : [ "Git", "GitHub", "Docker", "Postman", "Vite", "Bit Bucket", "Slack" ]
-        "IDE" : [ "Visual Studio Code" ]
+        "Databases" : [ "MySQL", "PostgreSQL", "MongoDB"] ,
+        "Tools" : [ "Git", "GitHub", "Docker", "Postman", "Cloudinary", "Vite", "Bit Bucket", "Slack" ] ,
+        "IDE" : [ "Visual Studio Code", "IntelliJ"]
     } ,
     
     "Design" : {
