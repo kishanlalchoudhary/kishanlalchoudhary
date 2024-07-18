@@ -88,19 +88,3 @@
 <br>
 
 [![An image of @kishanlalchoudhary's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kishanlalchoudhary)](https://holopin.io/@kishanlalchoudhary)
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width='30'> <b>Connect with Me</b>
-
-<p>
-    <a href="https://www.linkedin.com/in/kishanlal-choudhary-a94154217/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
-            width="40" /></a>
-    <a href="https://www.hackerrank.com/kisanchoudhary01" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/hackerrank-3521478-2944922.png" alt="facebook" height="40"
-            width="40" /></a>
-    <a href="https://www.instagram.com/_kishanlal123/" target="blank"><img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
-            width="40" /></a>
-</p>
-
-##
