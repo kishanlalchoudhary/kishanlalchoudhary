@@ -19,7 +19,7 @@
 
 <!-- - 🔭 I’m currently working on something cool. -->
 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Ruby on Rails.
 
 - 👯 I’m looking forward to collaborate on Web projects.
 
@@ -43,16 +43,12 @@
 
 {
     "Web Development" : {
-        "Languages" : [ "CPP", "Java", "SQL", "HTML", "CSS", "Javascript", "Python" ] ,
+        "Languages" : [ "CPP", "Java", "SQL", "HTML", "CSS", "Javascript", "TypeScript", "Python" ] ,
         "Frontend Frameworks" : [ "Next.js", "React", "Tailwind CSS", "Bootstrap" ] ,
         "Backend Frameworks" : [ "Node.js", "Express.js", "Flask", "Firebase" ] ,
-        "Databases" : [ "MySQL", "PostgreSQL", "MongoDB"] ,
-        "Tools" : [ "Git", "GitHub", "Docker", "Postman", "Cloudinary", "Nodemailer", "Vite", "Bit Bucket", "Slack" ] ,
-        "IDE" : [ "Visual Studio Code", "IntelliJ"]
-    } ,
-    
-    "Design" : {
-        "Tools" : [ "Canva", "Photoshop", "After Effects", "Figma" ]
+        "Databases" : [ "MySQL", "PostgreSQL", "MongoDB", "Prisma"] ,
+        "Tools" : [ "Git", "GitHub", "Bit Bucket", "Docker", "Postman"] ,
+        "IDE" : [ "Visual Studio Code"]
     }
 }
 ```
